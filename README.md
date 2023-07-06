@@ -1,1 +1,1 @@
-# codewars code
+# Codewars JavaScript Solutions Explorer
