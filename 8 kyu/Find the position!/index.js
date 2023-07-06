@@ -5,5 +5,3 @@ function position(letter) {
 
 	return `Position of alphabet: ${letterPosition}`
 }
-
-console.log(position('z'))
