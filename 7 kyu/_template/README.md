@@ -1,3 +1,0 @@
-# Codewars
-
-Kata: [Link]()
