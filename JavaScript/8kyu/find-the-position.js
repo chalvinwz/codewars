@@ -3,5 +3,7 @@ function position(letter) {
 
 	const letterPosition = alphabets.indexOf(letter) + 1
 
-	return `Position of alphabet: ${letterPosition}`
+	const result = `Position of alphabet: ${letterPosition}`
+
+	return result
 }
